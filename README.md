@@ -1,2 +1,1 @@
-# data_science
-My projects
+# data_science/PRJ1
